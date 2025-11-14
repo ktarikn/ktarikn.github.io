@@ -31,7 +31,7 @@ I love understanding **how systems work** — and then **making them better**.
 -  **Artificial Intelligence:** Search algorithms, A*, and optimization
 -  **Backend Systems:** Spring Boot, PostgreSQL, REST APIs
 -  **Game Development:** Godot 4 & Unity (C#/GDScript)
--  **Programming Languages:** Java, Python, Assembly, C, GDScript 
+-  **Programming Languages:** Java, Python, Assembly, C, GDScript, C++ ,C# 
 
 <p align="center">
   <a href="https://github.com/tarikno"><img src="https://img.shields.io/badge/Visit%20My%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects" width="300"></a>
@@ -62,7 +62,7 @@ _B.Sc. in Computer Engineering_
 
 | Category | Tools & Languages |
 | -------- | ----------------- |
-| **Languages** | Java, Python, C++, GDScript, Rust |
+| **Languages** | Java, Python, C++, GDScript, Rust, C , C# |
 | **Frameworks** | Spring Boot, Flask, Godot, Unity |
 | **Databases** | PostgreSQL, SQLite |
 | **Other Tools** | Git, IntelliJ, VSCode, Linux |
