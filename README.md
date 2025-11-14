@@ -3,8 +3,7 @@
 <h1 align="center">Name: Kemal Tarık Nehrozoğlu</h1>
 
 <p align="center">
-  <strong>Computer Science Student • Backend & AI Enthusiast • Game Developer</strong><br/>
-  Building creative, efficient, and scalable systems — from algorithms to full-stack apps.
+  <strong>Computer Science Student • Game Developer</strong><br/>
 </p>
 
 <p align="center">
@@ -19,14 +18,14 @@
 
 <p align="center">
   Currently studying at <strong>Middle East Technical University (METU)</strong><br/>
-  and exploring how software can merge logic, design, and problem-solving.
+  and exploring subjects such as Quantum Computing, Artificial Intelligence, Software Engineering and Graphical Computing.
 </p>
 
 ---
 
 ## What I Do
 
-Whether it’s developing web apps, experimenting with AI, or designing games,  
+Whether it’s developing apps, experimenting with AI, or designing games,  
 I love understanding **how systems work** — and then **making them better**.
 
 -  **Artificial Intelligence:** Search algorithms, A*, and optimization
