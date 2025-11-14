@@ -28,7 +28,7 @@
 Whether it’s developing apps, experimenting with AI, or designing games,  
 I love understanding **how systems work** — and then **making them better**.
 
--  **Artificial Intelligence:** Search algorithms, A*, and optimization
+-  **Artificial Intelligence:** Search algorithms, A*, Predicate Logic Inferance, Constraint Satisfaction, Deterministic Planning
 -  **Backend Systems:** Spring Boot, PostgreSQL, REST APIs
 -  **Game Development:** Godot 4 & Unity (C#/GDScript)
 -  **Programming Languages:** Java, Python, Assembly, C, GDScript, C++ ,C# 
@@ -43,11 +43,11 @@ I love understanding **how systems work** — and then **making them better**.
 
 | Project | Description | Tech |
 | -------- | ------------ | ---- |
-| [**A* & IDDFS Visualizer**](https://github.com/tarikno/ai-search-hw) | Visualized AI algorithms for search and pathfinding | Python |
+| [**A* & IDDFS Applied**](https://github.com/tarikno/ai-search-hw) | Applied AI algorithms for search and pathfinding | Python |
 | [**Spring Boot Web App**](https://github.com/tarikno/springboot-site) | CRUD app with pagination & PostgreSQL backend | Java, Spring Boot, Thymeleaf |
 | [**2D Platformer Controller**](https://github.com/tarikno/platformer) | Smooth player control system in Godot 4 | GDScript |
 | [**Counting Sort for Strings**](https://github.com/tarikno/sorting-hw) | Counting Sort adapted for variable-length strings | Python |
-
+| [**Implement the game of Xiangqi**](https://github.com/ktarikn/Xiangqi) | Implemented the game of Xiangqi, also reffered as Chineese chess| Java |
 ---
 
 ## Education
