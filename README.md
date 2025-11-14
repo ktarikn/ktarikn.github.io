@@ -88,7 +88,7 @@ When I’m not coding, I:
   <a href="https://www.linkedin.com/in/kemal-tar%C4%B1k-nehrozo%C4%9Flu-268920192/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <p align="center">
   <a href="https://kthun1.itch.io">
-    <img src="https://static.itch.io/images/itchio-textless-black.svg">
+    <img src="https://static.itch.io/images/itchio-textless-black.svg" width = "200">
   </a>
 </p>
 </p>
